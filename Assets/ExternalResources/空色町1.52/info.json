@@ -1,0 +1,14 @@
+{
+    "name": "stage:空色町:1.0",
+    "require_level": 2,
+    "scale": 12.65,
+    "stage":
+    	{
+    		"start_points":
+    			[
+    				{"x":0.0, "y":0.0, "z":0.0},
+    				{"x":0.0, "y":0.0, "z":0.0}
+    			],
+    		"skydome": "skydome:入道雲のある風景"
+    	}
+}
